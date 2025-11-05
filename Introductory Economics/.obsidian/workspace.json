@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Basic Market Types.md",
+                "file": "4. The Production Process and Costs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Basic Market Types"
+              "title": "4. The Production Process and Costs"
+            }
+          },
+          {
+            "id": "b07e2b7c4ce30520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Game Theory: inside the Oligopoly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Game Theory: inside the Oligopoly"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,30 +184,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc82ad4afb7561c5",
+  "active": "b07e2b7c4ce30520",
   "lastOpenFiles": [
-    "images/6-monopolistic-competition.jpg",
-    "images/Screenshot 2025-10-09 at 18.13.44.jpg",
-    "images/6-summary.jpg",
-    "images/Screenshot 2025-10-09 at 18.09.11.jpg",
-    "images/6-monopoly-dwl.jpg",
-    "images/Screenshot 2025-10-09 at 18.08.44.jpg",
-    "images/6-monopoly-mr.jpg",
-    "images/6-monopolu-mr.jpg",
-    "images/6-monopolist-mr.jpg",
-    "images/Screenshot 2025-10-09 at 17.57.31.jpg",
-    "images/6-monopoly-vs-perfect-competition.jpg",
-    "5. From Firms to Industry.md",
+    "images/9-multistage.jpg",
+    "images/Screenshot 2025-11-05 at 10.22.37.jpg",
+    "8. Basic Oligopoly models.md",
+    "images/9-normal-form-game.jpg",
+    "images/Screenshot 2025-11-05 at 09.08.24.jpg",
+    "9. Game Theory.md",
+    "9. Game Theory: inside the Oligopoly.md",
     "6. Basic Market Types.md",
+    "7. Behavioral Aspects of Economics.md",
+    "images/8-marginal-cost-change.jpg",
+    "images/Screenshot 2025-10-29 at 09.53.24.jpg",
+    "images/8-isoprofit-curves.jpg",
+    "images/Screenshot 2025-10-29 at 09.46.18.jpg",
+    "images/8-cournot-reaction.jpg",
+    "images/Screenshot 2025-10-29 at 09.42.36.jpg",
+    "images/8-sweezy-demand.jpg",
+    "5. From Firms to Industry.md",
+    "4. The Production Process and Costs.md",
+    "3. Quantitative Demand Analysis.md",
+    "1. The Fundamentals of Economics.md",
+    "2. Demand and Supply.md",
     "6. Basic Market Types.md ",
     "6. ",
-    "4. The Production Process and Costs.md",
     "5. From Firms to Industry",
     "images",
     "untitled folder",
-    "3. Quantitative Demand Analysis.md",
-    "2. Demand and Supply.md",
-    "1. The Fundamentals of Economics.md",
     "Welcome.md"
   ]
 }
